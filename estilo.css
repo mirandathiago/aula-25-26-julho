@@ -1,0 +1,337 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@400;700&family=Pacifico&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color:#F0F2F5;
+    
+}
+
+h1{
+    font-family: 'Pacifico', cursive;
+}
+
+h2,h3,h4,h5,h6{
+    font-family: 'Roboto', cursive;
+
+ 
+}
+
+.topo{
+    background-color:#5636D3;
+    height:150px;
+    border-bottom:5px solid #4124B2;
+}
+.container__topo{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container{  
+    max-width: 1144px;
+    margin:0 auto;
+    height:100%;
+}
+.topo h1 a{
+    color:#FFF;
+    text-decoration: none;
+    font-weight: 400;
+}
+.topo h1{
+    color:#FFF;
+    font-weight: 400;
+}
+.topo .menu{
+    width:20%;
+}
+.topo .menu ul{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+.topo .menu ul a{
+    font-size:1.1rem;
+    font-weight: bolder;
+    color:#4124B2;
+    text-decoration:none;
+    display: block;
+    background-color:#FFF;
+    border-radius:10px;
+    padding:.8rem;
+    box-shadow: 0 8px 2px #4124B2;
+    transition: transform 300ms ease;
+
+    display: flex;
+    align-items: center;
+   
+}
+.topo .menu ul a i{
+    margin-right:.5rem;
+}
+
+.topo .menu ul a:hover{
+   
+   transform: scale(1.05);
+  
+}
+
+.boxes{
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+    column-gap: 1rem;
+    padding-top:1rem;
+    margin-bottom:1rem;
+}
+.box{
+    border-radius:20px;
+    background-color:#FFF;
+    padding:1rem;
+    min-height: 120px;
+    box-shadow:  2px 2px 5px #c1c1c1,
+                -2px -2px 5px #ffffff;
+
+}
+
+.box h2{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-bottom:1rem;
+
+}
+.box h2 i{
+   font-weight: normal; 
+   font-size:2.2rem;
+}
+
+.box p{
+    font-size:2rem;
+    color:#363F5F;
+}
+
+.receitas h2 i{
+    color:#17A658;
+
+}
+
+.despesas h2 i{
+    color:#EB546C;
+
+}
+
+.total{
+    
+    color:#FFF;
+}
+
+.total.receita{
+    background-color:#49AA26;
+}
+
+.total.despesa{
+    background-color:#EB546C;
+}
+
+.total p{
+   
+    color:#FFF;
+    font-weight: bold;
+}
+
+.header__transacoes{
+    display:flex;
+    justify-content: space-between;
+    margin-bottom:1rem;
+    background-color:#FFF;
+    box-shadow:  2px 2px 5px #c1c1c1,
+    -2px -2px 5px #ffffff;
+    border-radius: 10px;
+    padding:1rem;
+
+}
+
+.header__transacoes h2{
+    display: flex;
+    align-items: center;
+
+}
+
+.header__transacoes h2 i{
+    color:#363F5F;
+    margin-right:.5rem;
+}
+
+.header__transacoes form{
+    width:30%;
+
+}
+
+.header__transacoes form select{
+    width:100%;
+    height:40px;
+    border-radius:10px;
+    outline: none;
+    padding:0 1rem;
+    color:#363F5F;
+    font-size:1.1rem;
+}
+.transacoes table{
+    width:100%;
+    border-collapse: collapse;
+    margin-bottom:2rem;
+}
+
+.transacoes table tr{
+    background-color:#FFF;
+    border-bottom:10px solid #F0F2F5;
+    border-radius: 10px;
+    
+}
+.transacoes table tr td,
+.transacoes table tr th{
+    padding:1rem;
+    border: none;
+    text-align: left;
+    
+}
+
+.transacoes table tr td.despesa{
+    color:#EB546C;   
+}
+.transacoes table tr td.receita{
+    color:#49AA26;   
+}
+
+.transacoes table tr td.despesa i,
+.transacoes table tr td.receita i
+{
+    font-size: 2rem;
+}
+.transacoes table tr td.acao i{
+    font-size: 1.2rem;
+}
+
+.transacoes table tr td.acao a{
+    text-decoration: none;
+    color:#363F5F;
+}
+
+.transacoes table tr td.acao a:hover{
+ 
+    color:#4124B2;
+}
+
+form.container h2{
+    display:flex;
+    align-items: center;
+    color:#4124B2;
+    grid-column: 1 / 3;
+}
+form.container h2 i{
+    margin-right:.5rem;
+}
+
+form .form-erro{
+    background-color:#f5a8b5;
+    padding:1rem;
+    grid-column: 1 / 3;
+    color:#751021;
+    border-radius:10px;
+}
+
+
+form.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    background-color:#FFF;
+    padding:1rem;
+    box-shadow:  2px 2px 5px #c1c1c1,
+    -2px -2px 5px #ffffff;
+    margin:20px 0;
+    border-radius:10px;
+
+  }
+
+form.container .colunatotal{
+    grid-column: 1 / 3;
+    
+}
+
+form.container .coluna1{
+    grid-column: 1 / 2;
+}
+form.container .coluna2{
+    grid-column: 2 / 3;
+}
+  form.container label {
+   
+    font-weight: bold;
+  }
+
+form.container input,
+form.container select {
+    width: 100%;
+    padding: 5px;
+  }
+
+
+form.container .submit-button {
+    width:50%;
+    margin-top: 10px;
+    background-color:#5636D3;
+    padding:1rem;
+    color:#FFF;
+    font-size:1.2rem;
+    border-radius:10px;
+    outline:none;
+    border:none;
+    cursor:pointer;
+    transition: background-color 300ms ease;
+   
+  }
+  form.container .submit-button:hover {
+    background-color:#4124B2;   
+  }
+  form.container .tipo{
+    width:100%;
+    display:block;
+  
+  }
+
+  form.container input[type="radio"] {
+    display: none;
+  }
+  
+  form.container label.radio-label {
+    display: inline-flex;
+    align-items: center;
+    padding: 5px 10px;
+    background-color: #eee;
+    cursor: pointer;
+    border-radius:10px;
+    border:1px solid #eee;
+  }
+
+  form.container label.radio-label i{
+    font-weight: normal;
+  }
+
+  form.container label.radio-label.despesa i{
+    color:#EB546C;
+    margin-right:.2rem;
+  }
+  form.container label.radio-label.receita i{
+    color:#17A658;
+    margin-right:.2rem;
+  }
+  
+  form.container input[type="radio"]:checked + label.radio-label {
+    background-color: #dbdbdb;
+    border:1px solid #4124B2;
+  }

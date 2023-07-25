@@ -1,0 +1,207 @@
+2023-01-01,Almoço de Negócios,R$ 6543.72,despesa,Alimentação
+2023-02-01,Serviço de Consultoria,R$ 1245.85,receita,Freelancer
+2023-03-01,Compra de Roupas,R$ 2137.91,despesa,Compras
+2023-04-01,Rendimento de Investimentos,R$ 7658.19,receita,Retorno de Investimentos
+2023-05-01,Pagamento de Dívida,R$ 275.55,despesa,Dívidas
+2023-06-01,Salário Mensal,R$ 7829.12,receita,Salário
+2023-07-01,Renda Extra,R$ 513.32,receita,Renda Extra
+2023-08-01,Passagem de Transporte,R$ 2941.99,despesa,Transporte
+2023-09-01,Aluguel Recebido,R$ 6798.79,receita,Recebimento de Aluguel
+2023-10-01,Pagamento de Impostos,R$ 4874.45,despesa,Impostos
+2023-11-01,Dividendos de Investimentos,R$ 3586.6,receita,Retorno de Investimentos
+2023-12-01,Serviço de Design Gráfico,R$ 4215.33,receita,Freelancer
+2023-01-01,Refeição no Restaurante,R$ 7422.91,despesa,Alimentação
+2023-02-01,Serviço de Consultoria,R$ 2262.89,receita,Renda Extra
+2023-03-01,Aluguel Recebido,R$ 4970.75,receita,Recebimento de Aluguel
+2023-04-01,Gasolina e Transporte,R$ 3526.29,despesa,Transporte
+2023-05-01,Salário Mensal,R$ 125.47,receita,Salário
+2023-06-01,Hospedagem em Hotel,R$ 619.94,despesa,Hospedagem
+2023-07-01,Serviço de Desenvolvimento Web,R$ 6420.01,receita,Freelancer
+2023-08-01,Venda de Produtos,R$ 337.19,receita,Renda Extra
+2023-09-01,Dividendos de Investimentos,R$ 5327.91,receita,Retorno de Investimentos
+2023-10-01,Compra de Eletrônicos,R$ 6349.24,despesa,Compras
+2023-11-01,Conta de Energia Elétrica,R$ 6905.39,despesa,Contas de Casa
+2023-12-01,Serviço de Design Gráfico,R$ 7427.14,receita,Freelancer
+2023-01-01,Curso de Idiomas,R$ 4076.14,despesa,Educação
+2023-02-01,Passagem de Transporte,R$ 1544.14,despesa,Transporte
+2023-03-01,Serviço de Consultoria,R$ 2150.46,receita,Freelancer
+2023-04-01,Dividendos de Investimentos,R$ 7819.68,receita,Retorno de Investimentos
+2023-05-01,Compra de Alimentos,R$ 3716.93,despesa,Alimentação
+2023-06-01,Serviço de Hospedagem,R$ 449.25,despesa,Hospedagem
+2023-07-01,Venda de Produtos,R$ 5386.42,receita,Renda Extra
+2023-08-01,Pagamento de Impostos,R$ 4922.25,despesa,Impostos
+2023-09-01,Aluguel Recebido,R$ 7128.55,receita,Recebimento de Aluguel
+2023-10-01,Compra de Vestuário,R$ 3205.82,despesa,Compras
+2023-11-01,Pagamento de Contas de Casa,R$ 3964.98,despesa,Contas de Casa
+2023-12-01,Serviço de Consultoria,R$ 5827.97,receita,Freelancer
+2023-01-01,Refeição no Restaurante,R$ 5032.38,despesa,Alimentação
+2023-02-01,Serviço de Web Design,R$ 1916.19,receita,Freelancer
+2023-03-01,Compra de Eletrônicos,R$ 4708.24,despesa,Compras
+2023-04-01,Rendimento de Investimentos,R$ 8431.15,receita,Retorno de Investimentos
+2023-05-01,Pagamento de Dívida,R$ 436.24,despesa,Dívidas
+2023-06-01,Salário Mensal,R$ 7165.17,receita,Salário
+2023-07-01,Renda Extra,R$ 351.18,receita,Renda Extra
+2023-08-01,Passagem de Transporte,R$ 2598.49,despesa,Transporte
+2023-09-01,Aluguel Recebido,R$ 6840.02,receita,Recebimento de Aluguel
+2023-10-01,Pagamento de Impostos,R$ 3973.75,despesa,Impostos
+2023-11-01,Dividendos de Investimentos,R$ 2948.83,receita,Retorno de Investimentos
+2023-12-01,Serviço de Design Gráfico,R$ 6347.62,receita,Freelancer
+2023-01-01,Refeição no Restaurante,R$ 5583.69,despesa,Alimentação
+2023-02-01,Serviço de Consultoria,R$ 1721.23,receita,Freelancer
+2023-03-01,Compra de Roupas,R$ 3489.86,despesa,Compras
+2023-04-01,Rendimento de Investimentos,R$ 7249.78,receita,Retorno de Investimentos
+2023-05-01,Parcelamento de Dívida,R$ 199.14,despesa,Dívidas
+2023-06-01,Salário Mensal,R$ 6886.52,receita,Salário
+2023-07-01,Renda Extra,R$ 445.29,receita,Renda Extra
+2023-08-01,Passagem de Transporte,R$ 2881.24,despesa,Transporte
+2023-09-01,Aluguel Recebido,R$ 7562.34,receita,Recebimento de Aluguel
+2023-10-01,Pagamento de Impostos,R$ 5094.87,despesa,Impostos
+2023-11-01,Dividendos de Investimentos,R$ 6854.27,receita,Retorno de Investimentos
+2023-12-01,Serviço de Design Gráfico,R$ 3987.19,receita,Freelancer
+2023-01-01,Refeição no Restaurante,R$ 6002.73,despesa,Alimentação
+2023-02-01,Serviço de Consultoria,R$ 1387.69,receita,Freelancer
+2023-03-01,Compra de Eletrônicos,R$ 3795.69,despesa,Compras
+2023-04-01,Rendimento de Investimentos,R$ 7469.15,receita,Retorno de Investimentos
+2023-05-01,Pagamento de Dívida,R$ 357.59,despesa,Dívidas
+2023-06-01,Salário Mensal,R$ 7954.36,receita,Salário
+2023-07-01,Renda Extra,R$ 512.68,receita,Renda Extra
+2023-08-01,Passagem de Transporte,R$ 3122.57,despesa,Transporte
+2023-09-01,Aluguel Recebido,R$ 8253.79,receita,Recebimento de Aluguel
+2023-10-01,Pagamento de Impostos,R$ 5603.14,despesa,Impostos
+2023-11-01,Dividendos de Investimentos,R$ 6249.18,receita,Retorno de Investimentos
+2023-12-01,Serviço de Design Gráfico,R$ 5167.75,receita,Freelancer
+2023-01-01,Almoço de Negócios,R$ 6541.07,despesa,Alimentação
+2023-02-01,Serviço de Consultoria,R$ 1503.93,receita,Freelancer
+2023-03-01,Compra de Roupas,R$ 4521.93,despesa,Compras
+2023-04-01,Rendimento de Investimentos,R$ 7852.37,receita,Retorno de Investimentos
+2023-05-01,Parcelamento de Dívida,R$ 159.37,despesa,Dívidas
+2023-06-01,Salário Mensal,R$ 8289.58,receita,Salário
+2023-07-01,Renda Extra,R$ 449.47,receita,Renda Extra
+2023-08-01,Passagem de Transporte,R$ 2812.96,despesa,Transporte
+2023-09-01,Aluguel Recebido,R$ 8587.23,receita,Recebimento de Aluguel
+2023-10-01,Pagamento de Impostos,R$ 6182.93,despesa,Impostos
+2023-11-01,Dividendos de Investimentos,R$ 7124.55,receita,Retorno de Investimentos
+2023-12-01,Serviço de Design Gráfico,R$ 4985.72,receita,Freelancer
+2023-01-01,Almoço de Negócios,R$ 7072.23,despesa,Alimentação
+2023-02-01,Serviço de Consultoria,R$ 1664.81,receita,Freelancer
+2023-03-01,Compra de Eletrônicos,R$ 5078.27,despesa,Compras
+2023-04-01,Rendimento de Investimentos,R$ 8249.72,receita,Retorno de Investimentos
+2023-05-01,Pagamento de Dívida,R$ 431.82,despesa,Dívidas
+2023-06-01,Salário Mensal,R$ 8625.13,receita,Salário
+2023-07-01,Renda Extra,R$ 586.41,receita,Renda Extra
+2023-08-01,Passagem de Transporte,R$ 3491.82,despesa,Transporte
+2023-09-01,Aluguel Recebido,R$ 8927.58,receita,Recebimento de Aluguel
+2023-10-01,Pagamento de Impostos,R$ 6472.19,despesa,Impostos
+2023-11-01,Dividendos de Investimentos,R$ 7461.94,receita,Retorno de Investimentos
+2023-12-01,Serviço de Design Gráfico,R$ 5732.29,receita,Freelancer
+2023-01-01,Almoço de Negócios,R$ 7423.36,despesa,Alimentação
+2023-02-01,Serviço de Consultoria,R$ 1883.56,receita,Freelancer
+2023-03-01,Compra de Roupas,R$ 5729.19,despesa,Compras
+2023-04-01,Rendimento de Investimentos,R$ 8652.19,receita,Retorno de Investimentos
+2023-05-01,Pagamento de Dívida,R$ 538.39,despesa,Dívidas
+2023-06-01,Salário Mensal,R$ 8954.37,receita,Salário
+2023-07-01,Renda Extra,R$ 613.85,receita,Renda Extra
+2023-08-01,Passagem de Transporte,R$ 3869.61,despesa,Transporte
+2023-09-01,Aluguel Recebido,R$ 9225.62,receita,Recebimento de Aluguel
+2023-10-01,Pagamento de Impostos,R$ 6754.86,despesa,Impostos
+2023-11-01,Dividendos de Investimentos,R$ 7813.56,receita,Retorno de Investimentos
+2023-12-01,Serviço de Design Gráfico,R$ 6489.15,receita,Freelancer
+2023-01-01,Almoço de Negócios,R$ 7961.44,despesa,Alimentação
+2023-02-01,Serviço de Consultoria,R$ 2059.78,receita,Freelancer
+2023-03-01,Compra de Eletrônicos,R$ 6397.47,despesa,Compras
+2023-04-01,Rendimento de Investimentos,R$ 9057.84,receita,Retorno de Investimentos
+2023-05-01,Pagamento de Dívida,R$ 642.74,despesa,Dívidas
+2023-06-01,Salário Mensal,R$ 9298.79,receita,Salário
+2023-07-01,Renda Extra,R$ 689.52,receita,Renda Extra
+2023-08-01,Passagem de Transporte,R$ 4198.75,despesa,Transporte
+2023-09-01,Aluguel Recebido,R$ 9578.23,receita,Recebimento de Aluguel
+2023-10-01,Pagamento de Impostos,R$ 7075.39,despesa,Impostos
+2023-11-01,Dividendos de Investimentos,R$ 8162.49,receita,Retorno de Investimentos
+2023-12-01,Serviço de Design Gráfico,R$ 7214.61,receita,Freelancer
+2023-01-01,Almoço de Negócios,R$ 8493.18,despesa,Alimentação
+2023-02-01,Serviço de Consultoria,R$ 2235.45,receita,Freelancer
+2023-03-01,Compra de Roupas,R$ 7014.82,despesa,Compras
+2023-04-01,Rendimento de Investimentos,R$ 9465.26,receita,Retorno de Investimentos
+2023-05-01,Pagamento de Dívida,R$ 747.69,despesa,Dívidas
+2023-06-01,Salário Mensal,R$ 9632.95,receita,Salário
+2023-07-01,Renda Extra,R$ 772.19,receita,Renda Extra
+2023-08-01,Passagem de Transporte,R$ 4536.24,despesa,Transporte
+2023-09-01,Aluguel Recebido,R$ 9927.46,receita,Recebimento de Aluguel
+2023-10-01,Pagamento de Impostos,R$ 7358.59,despesa,Impostos
+2023-11-01,Dividendos de Investimentos,R$ 8542.75,receita,Retorno de Investimentos
+2023-12-01,Serviço de Design Gráfico,R$ 7985.37,receita,Freelancer
+2023-01-01,Almoço com a Família,R$ 47.82,despesa,Alimentação
+2023-01-01,Transporte Público,R$ 18.52,despesa,Transporte
+2023-01-01,Hospedagem em Hotel,R$ 124.73,despesa,Hospedagem
+2023-01-01,Cinema,R$ 23.89,despesa,Lazer
+2023-01-01,Livros Universitários,R$ 98.37,despesa,Educação
+2023-01-01,Consulta Médica,R$ 67.41,despesa,Saúde
+2023-01-01,Conta de Luz,R$ 81.29,despesa,Contas de Casa
+2023-01-01,Compras Online,R$ 55.61,despesa,Compras
+2023-01-01,Manutenção do Carro,R$ 143.78,despesa,Manutenção
+2023-01-01,Seguro Residencial,R$ 74.92,despesa,Seguros
+2023-01-01,Parcelamento de Dívida,R$ 92.17,despesa,Dívidas
+2023-01-01,Outras Despesas,R$ 39.28,despesa,Outras Despesas
+2023-01-01,Almoço com Amigos,R$ 59.46,despesa,Alimentação
+2023-01-01,Táxi,R$ 27.13,despesa,Transporte
+2023-01-01,Hospedagem em Pousada,R$ 109.82,despesa,Hospedagem
+2023-02-01,Cinema,R$ 25.67,despesa,Lazer
+2023-02-01,Livros Universitários,R$ 92.15,despesa,Educação
+2023-02-01,Consulta Médica,R$ 72.89,despesa,Saúde
+2023-02-01,Conta de Luz,R$ 85.49,despesa,Contas de Casa
+2023-02-01,Compras Online,R$ 62.37,despesa,Compras
+2023-02-01,Manutenção do Carro,R$ 158.73,despesa,Manutenção
+2023-02-01,Seguro Residencial,R$ 82.61,despesa,Seguros
+2023-02-01,Parcelamento de Dívida,R$ 97.24,despesa,Dívidas
+2023-02-01,Outras Despesas,R$ 41.87,despesa,Outras Despesas
+2023-02-01,Almoço com Amigos,R$ 56.94,despesa,Alimentação
+2023-02-01,Táxi,R$ 29.18,despesa,Transporte
+2023-02-01,Hospedagem em Pousada,R$ 117.56,despesa,Hospedagem
+2023-03-01,Cinema,R$ 22.83,despesa,Lazer
+2023-03-01,Livros Universitários,R$ 81.79,despesa,Educação
+2023-03-01,Consulta Médica,R$ 64.57,despesa,Saúde
+2023-03-01,Conta de Luz,R$ 78.15,despesa,Contas de Casa
+2023-03-01,Compras Online,R$ 52.93,despesa,Compras
+2023-03-01,Manutenção do Carro,R$ 134.68,despesa,Manutenção
+2023-03-01,Seguro Residencial,R$ 70.94,despesa,Seguros
+2023-03-01,Parcelamento de Dívida,R$ 87.36,despesa,Dívidas
+2023-03-01,Outras Despesas,R$ 37.56,despesa,Outras Despesas
+2023-03-01,Almoço com Amigos,R$ 53.27,despesa,Alimentação
+2023-03-01,Táxi,R$ 24.73,despesa,Transporte
+2023-03-01,Hospedagem em Pousada,R$ 102.49,despesa,Hospedagem
+2023-04-01,Cinema,R$ 26.94,despesa,Lazer
+2023-04-01,Livros Universitários,R$ 89.62,despesa,Educação
+2023-04-01,Consulta Médica,R$ 69.41,despesa,Saúde
+2023-04-01,Conta de Luz,R$ 82.67,despesa,Contas de Casa
+2023-04-01,Compras Online,R$ 58.19,despesa,Compras
+2023-04-01,Manutenção do Carro,R$ 151.29,despesa,Manutenção
+2023-04-01,Seguro Residencial,R$ 78.56,despesa,Seguros
+2023-04-01,Parcelamento de Dívida,R$ 94.73,despesa,Dívidas
+2023-04-01,Outras Despesas,R$ 40.15,despesa,Outras Despesas
+2023-04-01,Almoço com Amigos,R$ 61.82,despesa,Alimentação
+2023-04-01,Táxi,R$ 26.15,despesa,Transporte
+2023-04-01,Hospedagem em Pousada,R$ 114.62,despesa,Hospedagem
+2023-05-01,Cinema,R$ 24.15,despesa,Lazer
+2023-05-01,Livros Universitários,R$ 85.37,despesa,Educação
+2023-05-01,Consulta Médica,R$ 66.15,despesa,Saúde
+2023-05-01,Conta de Luz,R$ 79.82,despesa,Contas de Casa
+2023-05-01,Compras Online,R$ 56.73,despesa,Compras
+2023-05-01,Manutenção do Carro,R$ 144.73,despesa,Manutenção
+2023-05-01,Seguro Residencial,R$ 75.37,despesa,Seguros
+2023-05-01,Parcelamento de Dívida,R$ 91.15,despesa,Dívidas
+2023-05-01,Outras Despesas,R$ 38.49,despesa,Outras Despesas
+2023-05-01,Almoço com Amigos,R$ 58.73,despesa,Alimentação
+2023-05-01,Táxi,R$ 25.49,despesa,Transporte
+2023-05-01,Hospedagem em Pousada,R$ 107.41,despesa,Hospedagem
+2023-06-01,Cinema,R$ 27.49,despesa,Lazer
+2023-06-01,Livros Universitários,R$ 88.73,despesa,Educação
+2023-06-01,Consulta Médica,R$ 68.29,despesa,Saúde
+2023-06-01,Conta de Luz,R$ 80.49,despesa,Contas de Casa
+2023-06-01,Compras Online,R$ 59.18,despesa,Compras
+2023-06-01,Manutenção do Carro,R$ 149.18,despesa,Manutenção
+2023-06-01,Seguro Residencial,R$ 77.49,despesa,Seguros
+2023-06-01,Parcelamento de Dívida,R$ 93.82,despesa,Dívidas
+2023-06-01,Outras Despesas,R$ 39.82,despesa,Outras Despesas
+2023-06-01,Almoço com Amigos,R$ 60.67,despesa,Alimentação
+2023-06-01,Táxi,R$ 28.36,despesa,Transporte
+2023-06-01,Hospedagem em Pousada,R$ 113.27,despesa,Hospedagem
